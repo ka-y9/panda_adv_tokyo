@@ -1,0 +1,28 @@
+src/assets/locales/en.json:
+
+{
+  "page1": {
+    "title": "Lost in Tokyo",
+    "description": "In the big city of Tokyo. A small panda became lost on a busy street. Surrounded by tall buildings and people. The panda is trembling with fear."
+  },
+  "page2": {
+    "title": "A Kind Stranger",
+    "description": "A kind elderly woman approaches and helps the panda. She speaks gently in Japanese, reassuring the little one. She suggests contacting the police."
+  },
+  "page3": {
+    "title": "Reunion at Tokyo Tower",
+    "description": "A police officer appears and searches for the panda's family. Near Tokyo Tower, they find a worried parent panda. At the moment of reunion, the panda sheds tears of joy."
+  },
+  "page4": {
+    "title": "Lessons Learned",
+    "description": "Reunited with family, the panda learns about Tokyo's kindness and safety. Promises to be more careful when walking in the city."
+  },
+  "characters": {
+    "panda-child": "Lost Little Panda",
+    "panda-parent": "Worried Parent Panda"
+  },
+  "locations": {
+    "tokyo-street": "Busy Tokyo Street",
+    "tokyo-tower": "Tokyo Tower"
+  }
+}
